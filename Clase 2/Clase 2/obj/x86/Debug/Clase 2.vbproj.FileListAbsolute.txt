@@ -1,0 +1,12 @@
+C:\Users\Programacion\AppData\Local\Temporary Projects\Clase 2\bin\Debug\Clase 2.exe
+C:\Users\Programacion\AppData\Local\Temporary Projects\Clase 2\bin\Debug\Clase 2.pdb
+C:\Users\Programacion\AppData\Local\Temporary Projects\Clase 2\bin\Debug\Clase 2.xml
+C:\Users\Programacion\AppData\Local\Temporary Projects\Clase 2\obj\x86\Debug\Clase_2.Form1.resources
+C:\Users\Programacion\AppData\Local\Temporary Projects\Clase 2\obj\x86\Debug\Clase_2.Resources.resources
+C:\Users\Programacion\AppData\Local\Temporary Projects\Clase 2\obj\x86\Debug\Clase 2.vbproj.GenerateResource.Cache
+C:\Users\Programacion\AppData\Local\Temporary Projects\Clase 2\obj\x86\Debug\Clase 2.exe
+C:\Users\Programacion\AppData\Local\Temporary Projects\Clase 2\obj\x86\Debug\Clase 2.xml
+C:\Users\Programacion\AppData\Local\Temporary Projects\Clase 2\obj\x86\Debug\Clase 2.pdb
+C:\Users\Programacion\Desktop\Proyectos\1234\Clase 2\Clase 2\obj\x86\Debug\Clase 2.exe
+C:\Users\Programacion\Desktop\Proyectos\1234\Clase 2\Clase 2\obj\x86\Debug\Clase 2.xml
+C:\Users\Programacion\Desktop\Proyectos\1234\Clase 2\Clase 2\obj\x86\Debug\Clase 2.pdb
